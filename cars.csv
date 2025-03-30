@@ -2,12 +2,30 @@ make,model,horsepower,weight,engine_size,fuel_efficiency
 Ford,Mustang,450,3500,5.0,15
 Ford,Fusion,175,3000,2.5,24
 Ford,Focus,160,2900,2.0,28
+Ford,Explorer,280,4600,3.5,22
 Tesla,Model S,1020,4900,0.0,100
 Tesla,Model 3,283,3500,2.0,35
 Tesla,Model X,670,5200,0.0,95
+Tesla,Model Y,456,4500,2.5,50
 BMW,M3,473,3400,3.0,21
 BMW,X5,335,4600,3.5,22
 BMW,328i,180,3200,2.0,30
+BMW,740i,320,4200,3.0,25
 Audi,A4,248,3200,2.0,24
 Audi,Q7,333,5100,3.0,23
 Audi,A6,335,4000,3.0,20
+Audi,A3,220,3100,1.8,28
+Chevrolet,Corvette,495,3300,6.2,18
+Chevrolet,Malibu,160,3300,2.5,30
+Chevrolet,Equinox,252,4200,2.4,26
+Chevrolet,Sonic,138,2600,1.8,32
+Honda,Civic,158,2900,2.0,33
+Honda,Accord,192,3200,2.4,29
+Honda,CR-V,190,3600,2.4,28
+Toyota,Corolla,139,2800,1.8,35
+Toyota,Camry,203,3300,2.5,28
+Toyota,Highlander,295,4500,3.5,23
+Nissan,Altima,188,3100,2.5,29
+Nissan,Maxima,300,3700,3.5,24
+Nissan,Sentra,149,2800,1.8,34
+Nissan,Pathfinder,284,4700,3.5,22
